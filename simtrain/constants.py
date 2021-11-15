@@ -1,0 +1,2 @@
+N_HOURS_IN_DAY = 24
+
